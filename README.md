@@ -1,0 +1,1 @@
+In this project, I looked at 50 startups to understand how their R&D, Marketing and Administration spending affects Profit. I got the data from MySQL, did the analysis and Linear Regression in Python, used the model to predict Profit for 2 new startups, and then put the main results into a Power BI dashboard.
